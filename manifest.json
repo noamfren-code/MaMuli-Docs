@@ -1,7 +1,610 @@
 {
   "version": 1,
   "updated": "2026-07-23",
+  "totalCountries": 169,
+  "totalSettlements": 626450,
+  "totalSizeMb": 58.23,
   "countries": [
+    {
+      "code": "AD",
+      "nameEn": "Andorra",
+      "flag": "🇦🇩",
+      "sizeMb": 0.0,
+      "settlementCount": 41,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "AF",
+      "nameEn": "Afghanistan",
+      "flag": "🇦🇫",
+      "sizeMb": 0.23,
+      "settlementCount": 2496,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "AG",
+      "nameEn": "Antigua and Barbuda",
+      "flag": "🇦🇬",
+      "sizeMb": 0.01,
+      "settlementCount": 58,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "AL",
+      "nameEn": "Albania",
+      "flag": "🇦🇱",
+      "sizeMb": 0.27,
+      "settlementCount": 3041,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "AM",
+      "nameEn": "Armenia",
+      "flag": "🇦🇲",
+      "sizeMb": 0.1,
+      "settlementCount": 1036,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "AO",
+      "nameEn": "Angola",
+      "flag": "🇦🇴",
+      "sizeMb": 0.1,
+      "settlementCount": 1166,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "AR",
+      "nameEn": "Argentina",
+      "flag": "🇦🇷",
+      "sizeMb": 0.71,
+      "settlementCount": 7593,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "AT",
+      "nameEn": "Austria",
+      "flag": "🇦🇹",
+      "sizeMb": 0.57,
+      "settlementCount": 6335,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "AU",
+      "nameEn": "Australia",
+      "flag": "🇦🇺",
+      "sizeMb": 0.11,
+      "settlementCount": 1251,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "AZ",
+      "nameEn": "Azerbaijan",
+      "flag": "🇦🇿",
+      "sizeMb": 0.24,
+      "settlementCount": 2686,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "BA",
+      "nameEn": "Bosnia and Herzegovina",
+      "flag": "🇧🇦",
+      "sizeMb": 0.46,
+      "settlementCount": 5150,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "BB",
+      "nameEn": "Barbados",
+      "flag": "🇧🇧",
+      "sizeMb": 0.01,
+      "settlementCount": 132,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "BD",
+      "nameEn": "Bangladesh",
+      "flag": "🇧🇩",
+      "sizeMb": 0.46,
+      "settlementCount": 4552,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "BE",
+      "nameEn": "Belgium",
+      "flag": "🇧🇪",
+      "sizeMb": 0.29,
+      "settlementCount": 3340,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "BF",
+      "nameEn": "Burkina Faso",
+      "flag": "🇧🇫",
+      "sizeMb": 0.61,
+      "settlementCount": 6989,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "BG",
+      "nameEn": "Bulgaria",
+      "flag": "🇧🇬",
+      "sizeMb": 0.48,
+      "settlementCount": 5110,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "BH",
+      "nameEn": "Bahrain",
+      "flag": "🇧🇭",
+      "sizeMb": 0.01,
+      "settlementCount": 74,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "BI",
+      "nameEn": "Burundi",
+      "flag": "🇧🇮",
+      "sizeMb": 0.14,
+      "settlementCount": 1545,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "BJ",
+      "nameEn": "Benin",
+      "flag": "🇧🇯",
+      "sizeMb": 0.28,
+      "settlementCount": 3193,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "BN",
+      "nameEn": "Brunei",
+      "flag": "🇧🇳",
+      "sizeMb": 0.01,
+      "settlementCount": 123,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "BO",
+      "nameEn": "Bolivia",
+      "flag": "🇧🇴",
+      "sizeMb": 0.51,
+      "settlementCount": 5473,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "BR",
+      "nameEn": "Brazil",
+      "flag": "🇧🇷",
+      "sizeMb": 1.03,
+      "settlementCount": 10993,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "BS",
+      "nameEn": "Bahamas",
+      "flag": "🇧🇸",
+      "sizeMb": 0.01,
+      "settlementCount": 57,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "BT",
+      "nameEn": "Bhutan",
+      "flag": "🇧🇹",
+      "sizeMb": 0.05,
+      "settlementCount": 575,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "BW",
+      "nameEn": "Botswana",
+      "flag": "🇧🇼",
+      "sizeMb": 0.05,
+      "settlementCount": 527,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "BY",
+      "nameEn": "Belarus",
+      "flag": "🇧🇾",
+      "sizeMb": 0.25,
+      "settlementCount": 2658,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "BZ",
+      "nameEn": "Belize",
+      "flag": "🇧🇿",
+      "sizeMb": 0.02,
+      "settlementCount": 228,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "CA",
+      "nameEn": "Canada",
+      "flag": "🇨🇦",
+      "sizeMb": 0.14,
+      "settlementCount": 1586,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "CD",
+      "nameEn": "Democratic Republic of the Congo",
+      "flag": "🇨🇩",
+      "sizeMb": 1.24,
+      "settlementCount": 14180,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "CF",
+      "nameEn": "Central African Republic",
+      "flag": "🇨🇫",
+      "sizeMb": 0.29,
+      "settlementCount": 3326,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "CG",
+      "nameEn": "Republic of the Congo",
+      "flag": "🇨🇬",
+      "sizeMb": 0.03,
+      "settlementCount": 320,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "CH",
+      "nameEn": "Switzerland",
+      "flag": "🇨🇭",
+      "sizeMb": 0.32,
+      "settlementCount": 3686,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "CI",
+      "nameEn": "Cote d'Ivoire",
+      "flag": "🇨🇮",
+      "sizeMb": 0.59,
+      "settlementCount": 6611,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "CL",
+      "nameEn": "Chile",
+      "flag": "🇨🇱",
+      "sizeMb": 0.1,
+      "settlementCount": 1094,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "CM",
+      "nameEn": "Cameroon",
+      "flag": "🇨🇲",
+      "sizeMb": 0.94,
+      "settlementCount": 10763,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "CN",
+      "nameEn": "China",
+      "flag": "🇨🇳",
+      "sizeMb": 3.2,
+      "settlementCount": 35951,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "CO",
+      "nameEn": "Colombia",
+      "flag": "🇨🇴",
+      "sizeMb": 0.37,
+      "settlementCount": 4045,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "CR",
+      "nameEn": "Costa Rica",
+      "flag": "🇨🇷",
+      "sizeMb": 0.05,
+      "settlementCount": 520,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "CU",
+      "nameEn": "Cuba",
+      "flag": "🇨🇺",
+      "sizeMb": 0.13,
+      "settlementCount": 1418,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "CV",
+      "nameEn": "Cabo Verde",
+      "flag": "🇨🇻",
+      "sizeMb": 0.02,
+      "settlementCount": 234,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "CY",
+      "nameEn": "Cyprus",
+      "flag": "🇨🇾",
+      "sizeMb": 0.05,
+      "settlementCount": 510,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "CZ",
+      "nameEn": "Czechia",
+      "flag": "🇨🇿",
+      "sizeMb": 0.95,
+      "settlementCount": 10507,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "DE",
+      "nameEn": "Germany",
+      "flag": "🇩🇪",
+      "sizeMb": 0.2,
+      "settlementCount": 2361,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "DJ",
+      "nameEn": "Djibouti",
+      "flag": "🇩🇯",
+      "sizeMb": 0.01,
+      "settlementCount": 95,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "DK",
+      "nameEn": "Denmark",
+      "flag": "🇩🇰",
+      "sizeMb": 0.14,
+      "settlementCount": 1595,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "DM",
+      "nameEn": "Dominica",
+      "flag": "🇩🇲",
+      "sizeMb": 0.01,
+      "settlementCount": 80,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "DO",
+      "nameEn": "Dominican Republic",
+      "flag": "🇩🇴",
+      "sizeMb": 0.08,
+      "settlementCount": 877,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "DZ",
+      "nameEn": "Algeria",
+      "flag": "🇩🇿",
+      "sizeMb": 0.61,
+      "settlementCount": 6206,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "EC",
+      "nameEn": "Ecuador",
+      "flag": "🇪🇨",
+      "sizeMb": 0.22,
+      "settlementCount": 2383,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "EE",
+      "nameEn": "Estonia",
+      "flag": "🇪🇪",
+      "sizeMb": 0.02,
+      "settlementCount": 244,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "EG",
+      "nameEn": "Egypt",
+      "flag": "🇪🇬",
+      "sizeMb": 0.14,
+      "settlementCount": 1473,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "ER",
+      "nameEn": "Eritrea",
+      "flag": "🇪🇷",
+      "sizeMb": 0.04,
+      "settlementCount": 357,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "ES",
+      "nameEn": "Spain",
+      "flag": "🇪🇸",
+      "sizeMb": 0.12,
+      "settlementCount": 1265,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "ET",
+      "nameEn": "Ethiopia",
+      "flag": "🇪🇹",
+      "sizeMb": 0.23,
+      "settlementCount": 2591,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "FI",
+      "nameEn": "Finland",
+      "flag": "🇫🇮",
+      "sizeMb": 0.39,
+      "settlementCount": 4317,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "FJ",
+      "nameEn": "Fiji",
+      "flag": "🇫🇯",
+      "sizeMb": 0.04,
+      "settlementCount": 433,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "FM",
+      "nameEn": "Micronesia",
+      "flag": "🇫🇲",
+      "sizeMb": 0.0,
+      "settlementCount": 36,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "FR",
+      "nameEn": "France",
+      "flag": "🇫🇷",
+      "sizeMb": 0.13,
+      "settlementCount": 1450,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "GA",
+      "nameEn": "Gabon",
+      "flag": "🇬🇦",
+      "sizeMb": 0.05,
+      "settlementCount": 601,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "GD",
+      "nameEn": "Grenada",
+      "flag": "🇬🇩",
+      "sizeMb": 0.01,
+      "settlementCount": 124,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "GE",
+      "nameEn": "Georgia",
+      "flag": "🇬🇪",
+      "sizeMb": 0.45,
+      "settlementCount": 4393,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "GH",
+      "nameEn": "Ghana",
+      "flag": "🇬🇭",
+      "sizeMb": 0.57,
+      "settlementCount": 6526,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "GM",
+      "nameEn": "Gambia",
+      "flag": "🇬🇲",
+      "sizeMb": 0.08,
+      "settlementCount": 861,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "GN",
+      "nameEn": "Guinea",
+      "flag": "🇬🇳",
+      "sizeMb": 0.32,
+      "settlementCount": 3562,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "GQ",
+      "nameEn": "Equatorial Guinea",
+      "flag": "🇬🇶",
+      "sizeMb": 0.01,
+      "settlementCount": 160,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "GR",
+      "nameEn": "Greece",
+      "flag": "🇬🇷",
+      "sizeMb": 0.74,
+      "settlementCount": 7672,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "GT",
+      "nameEn": "Guatemala",
+      "flag": "🇬🇹",
+      "sizeMb": 0.23,
+      "settlementCount": 2475,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "GW",
+      "nameEn": "Guinea-Bissau",
+      "flag": "🇬🇼",
+      "sizeMb": 0.05,
+      "settlementCount": 555,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "GY",
+      "nameEn": "Guyana",
+      "flag": "🇬🇾",
+      "sizeMb": 0.02,
+      "settlementCount": 219,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "HN",
+      "nameEn": "Honduras",
+      "flag": "🇭🇳",
+      "sizeMb": 0.14,
+      "settlementCount": 1469,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "HR",
+      "nameEn": "Croatia",
+      "flag": "🇭🇷",
+      "sizeMb": 0.59,
+      "settlementCount": 6486,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "HT",
+      "nameEn": "Haiti",
+      "flag": "🇭🇹",
+      "sizeMb": 0.12,
+      "settlementCount": 1335,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "HU",
+      "nameEn": "Hungary",
+      "flag": "🇭🇺",
+      "sizeMb": 0.28,
+      "settlementCount": 3158,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "ID",
+      "nameEn": "Indonesia",
+      "flag": "🇮🇩",
+      "sizeMb": 7.02,
+      "settlementCount": 77306,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "IE",
+      "nameEn": "Ireland",
+      "flag": "🇮🇪",
+      "sizeMb": 0.16,
+      "settlementCount": 1790,
+      "lastUpdated": "2026-07-23"
+    },
     {
       "code": "IL",
       "nameEn": "Israel",
@@ -11,11 +614,747 @@
       "lastUpdated": "2026-07-23"
     },
     {
-      "code": "AT",
-      "nameEn": "Austria",
-      "flag": "🇦🇹",
-      "sizeMb": 0.57,
-      "settlementCount": 6335,
+      "code": "IN",
+      "nameEn": "India",
+      "flag": "🇮🇳",
+      "sizeMb": 0.39,
+      "settlementCount": 4592,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "IQ",
+      "nameEn": "Iraq",
+      "flag": "🇮🇶",
+      "sizeMb": 1.17,
+      "settlementCount": 11946,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "IR",
+      "nameEn": "Iran",
+      "flag": "🇮🇷",
+      "sizeMb": 3.94,
+      "settlementCount": 41146,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "IS",
+      "nameEn": "Iceland",
+      "flag": "🇮🇸",
+      "sizeMb": 0.01,
+      "settlementCount": 81,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "IT",
+      "nameEn": "Italy",
+      "flag": "🇮🇹",
+      "sizeMb": 0.0,
+      "settlementCount": 0,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "JM",
+      "nameEn": "Jamaica",
+      "flag": "🇯🇲",
+      "sizeMb": 0.03,
+      "settlementCount": 316,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "JO",
+      "nameEn": "Jordan",
+      "flag": "🇯🇴",
+      "sizeMb": 0.01,
+      "settlementCount": 61,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "JP",
+      "nameEn": "Japan",
+      "flag": "🇯🇵",
+      "sizeMb": 0.0,
+      "settlementCount": 0,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "KE",
+      "nameEn": "Kenya",
+      "flag": "🇰🇪",
+      "sizeMb": 0.0,
+      "settlementCount": 0,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "KG",
+      "nameEn": "Kyrgyzstan",
+      "flag": "🇰🇬",
+      "sizeMb": 0.12,
+      "settlementCount": 1280,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "KH",
+      "nameEn": "Cambodia",
+      "flag": "🇰🇭",
+      "sizeMb": 0.13,
+      "settlementCount": 1166,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "KI",
+      "nameEn": "Kiribati",
+      "flag": "🇰🇮",
+      "sizeMb": 0.0,
+      "settlementCount": 0,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "KM",
+      "nameEn": "Comoros",
+      "flag": "🇰🇲",
+      "sizeMb": 0.02,
+      "settlementCount": 206,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "KN",
+      "nameEn": "Saint Kitts and Nevis",
+      "flag": "🇰🇳",
+      "sizeMb": 0.01,
+      "settlementCount": 61,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "KW",
+      "nameEn": "Kuwait",
+      "flag": "🇰🇼",
+      "sizeMb": 0.0,
+      "settlementCount": 7,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "KZ",
+      "nameEn": "Kazakhstan",
+      "flag": "🇰🇿",
+      "sizeMb": 0.47,
+      "settlementCount": 4863,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "LA",
+      "nameEn": "Laos",
+      "flag": "🇱🇦",
+      "sizeMb": 0.61,
+      "settlementCount": 6130,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "LB",
+      "nameEn": "Lebanon",
+      "flag": "🇱🇧",
+      "sizeMb": 0.16,
+      "settlementCount": 1664,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "LC",
+      "nameEn": "Saint Lucia",
+      "flag": "🇱🇨",
+      "sizeMb": 0.0,
+      "settlementCount": 50,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "LI",
+      "nameEn": "Liechtenstein",
+      "flag": "🇱🇮",
+      "sizeMb": 0.0,
+      "settlementCount": 21,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "LK",
+      "nameEn": "Sri Lanka",
+      "flag": "🇱🇰",
+      "sizeMb": 0.35,
+      "settlementCount": 3855,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "LR",
+      "nameEn": "Liberia",
+      "flag": "🇱🇷",
+      "sizeMb": 0.05,
+      "settlementCount": 556,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "LS",
+      "nameEn": "Lesotho",
+      "flag": "🇱🇸",
+      "sizeMb": 0.24,
+      "settlementCount": 2531,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "LT",
+      "nameEn": "Lithuania",
+      "flag": "🇱🇹",
+      "sizeMb": 1.75,
+      "settlementCount": 19336,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "LU",
+      "nameEn": "Luxembourg",
+      "flag": "🇱🇺",
+      "sizeMb": 0.09,
+      "settlementCount": 992,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "LV",
+      "nameEn": "Latvia",
+      "flag": "🇱🇻",
+      "sizeMb": 0.12,
+      "settlementCount": 1403,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "LY",
+      "nameEn": "Libya",
+      "flag": "🇱🇾",
+      "sizeMb": 0.02,
+      "settlementCount": 204,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "MA",
+      "nameEn": "Morocco",
+      "flag": "🇲🇦",
+      "sizeMb": 0.65,
+      "settlementCount": 5896,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "MC",
+      "nameEn": "Monaco",
+      "flag": "🇲🇨",
+      "sizeMb": 0.0,
+      "settlementCount": 1,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "MD",
+      "nameEn": "Moldova",
+      "flag": "🇲🇩",
+      "sizeMb": 0.15,
+      "settlementCount": 1678,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "ME",
+      "nameEn": "Montenegro",
+      "flag": "🇲🇪",
+      "sizeMb": 0.0,
+      "settlementCount": 0,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "MG",
+      "nameEn": "Madagascar",
+      "flag": "🇲🇬",
+      "sizeMb": 0.56,
+      "settlementCount": 6054,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "MH",
+      "nameEn": "Marshall Islands",
+      "flag": "🇲🇭",
+      "sizeMb": 0.0,
+      "settlementCount": 42,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "ML",
+      "nameEn": "Mali",
+      "flag": "🇲🇱",
+      "sizeMb": 0.85,
+      "settlementCount": 9420,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "MM",
+      "nameEn": "Myanmar",
+      "flag": "🇲🇲",
+      "sizeMb": 5.97,
+      "settlementCount": 54222,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "MN",
+      "nameEn": "Mongolia",
+      "flag": "🇲🇳",
+      "sizeMb": 0.05,
+      "settlementCount": 387,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "MR",
+      "nameEn": "Mauritania",
+      "flag": "🇲🇷",
+      "sizeMb": 0.07,
+      "settlementCount": 688,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "MT",
+      "nameEn": "Malta",
+      "flag": "🇲🇹",
+      "sizeMb": 0.01,
+      "settlementCount": 78,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "MU",
+      "nameEn": "Mauritius",
+      "flag": "🇲🇺",
+      "sizeMb": 0.02,
+      "settlementCount": 189,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "MV",
+      "nameEn": "Maldives",
+      "flag": "🇲🇻",
+      "sizeMb": 0.0,
+      "settlementCount": 30,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "MW",
+      "nameEn": "Malawi",
+      "flag": "🇲🇼",
+      "sizeMb": 0.21,
+      "settlementCount": 2385,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "MX",
+      "nameEn": "Mexico",
+      "flag": "🇲🇽",
+      "sizeMb": 0.24,
+      "settlementCount": 2569,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "MY",
+      "nameEn": "Malaysia",
+      "flag": "🇲🇾",
+      "sizeMb": 0.04,
+      "settlementCount": 504,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "MZ",
+      "nameEn": "Mozambique",
+      "flag": "🇲🇿",
+      "sizeMb": 0.0,
+      "settlementCount": 0,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "NA",
+      "nameEn": "Namibia",
+      "flag": "🇳🇦",
+      "sizeMb": 0.03,
+      "settlementCount": 300,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "NE",
+      "nameEn": "Niger",
+      "flag": "🇳🇪",
+      "sizeMb": 1.23,
+      "settlementCount": 13977,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "NG",
+      "nameEn": "Nigeria",
+      "flag": "🇳🇬",
+      "sizeMb": 1.45,
+      "settlementCount": 16951,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "NI",
+      "nameEn": "Nicaragua",
+      "flag": "🇳🇮",
+      "sizeMb": 0.15,
+      "settlementCount": 1630,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "NL",
+      "nameEn": "Netherlands",
+      "flag": "🇳🇱",
+      "sizeMb": 0.19,
+      "settlementCount": 2175,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "NO",
+      "nameEn": "Norway",
+      "flag": "🇳🇴",
+      "sizeMb": 0.0,
+      "settlementCount": 0,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "NP",
+      "nameEn": "Nepal",
+      "flag": "🇳🇵",
+      "sizeMb": 0.33,
+      "settlementCount": 3538,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "NR",
+      "nameEn": "Nauru",
+      "flag": "🇳🇷",
+      "sizeMb": 0.0,
+      "settlementCount": 0,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "NZ",
+      "nameEn": "New Zealand",
+      "flag": "🇳🇿",
+      "sizeMb": 0.02,
+      "settlementCount": 214,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "OM",
+      "nameEn": "Oman",
+      "flag": "🇴🇲",
+      "sizeMb": 0.0,
+      "settlementCount": 0,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "PA",
+      "nameEn": "Panama",
+      "flag": "🇵🇦",
+      "sizeMb": 0.0,
+      "settlementCount": 0,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "PE",
+      "nameEn": "Peru",
+      "flag": "🇵🇪",
+      "sizeMb": 3.36,
+      "settlementCount": 37643,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "PG",
+      "nameEn": "Papua New Guinea",
+      "flag": "🇵🇬",
+      "sizeMb": 0.83,
+      "settlementCount": 9370,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "PH",
+      "nameEn": "Philippines",
+      "flag": "🇵🇭",
+      "sizeMb": 0.0,
+      "settlementCount": 0,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "PK",
+      "nameEn": "Pakistan",
+      "flag": "🇵🇰",
+      "sizeMb": 0.08,
+      "settlementCount": 891,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "PL",
+      "nameEn": "Poland",
+      "flag": "🇵🇱",
+      "sizeMb": 0.0,
+      "settlementCount": 0,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "PT",
+      "nameEn": "Portugal",
+      "flag": "🇵🇹",
+      "sizeMb": 0.07,
+      "settlementCount": 789,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "PW",
+      "nameEn": "Palau",
+      "flag": "🇵🇼",
+      "sizeMb": 0.0,
+      "settlementCount": 30,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "PY",
+      "nameEn": "Paraguay",
+      "flag": "🇵🇾",
+      "sizeMb": 0.09,
+      "settlementCount": 912,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "QA",
+      "nameEn": "Qatar",
+      "flag": "🇶🇦",
+      "sizeMb": 0.0,
+      "settlementCount": 15,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "RO",
+      "nameEn": "Romania",
+      "flag": "🇷🇴",
+      "sizeMb": 0.0,
+      "settlementCount": 0,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "RS",
+      "nameEn": "Serbia",
+      "flag": "🇷🇸",
+      "sizeMb": 0.55,
+      "settlementCount": 5840,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "RU",
+      "nameEn": "Russia",
+      "flag": "🇷🇺",
+      "sizeMb": 0.0,
+      "settlementCount": 0,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "RW",
+      "nameEn": "Rwanda",
+      "flag": "🇷🇼",
+      "sizeMb": 0.01,
+      "settlementCount": 100,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "SA",
+      "nameEn": "Saudi Arabia",
+      "flag": "🇸🇦",
+      "sizeMb": 0.34,
+      "settlementCount": 3615,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "SB",
+      "nameEn": "Solomon Islands",
+      "flag": "🇸🇧",
+      "sizeMb": 0.03,
+      "settlementCount": 297,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "SC",
+      "nameEn": "Seychelles",
+      "flag": "🇸🇨",
+      "sizeMb": 0.0,
+      "settlementCount": 29,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "SD",
+      "nameEn": "Sudan",
+      "flag": "🇸🇩",
+      "sizeMb": 0.0,
+      "settlementCount": 0,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "SE",
+      "nameEn": "Sweden",
+      "flag": "🇸🇪",
+      "sizeMb": 0.22,
+      "settlementCount": 2338,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "SG",
+      "nameEn": "Singapore",
+      "flag": "🇸🇬",
+      "sizeMb": 0.0,
+      "settlementCount": 6,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "SI",
+      "nameEn": "Slovenia",
+      "flag": "🇸🇮",
+      "sizeMb": 0.0,
+      "settlementCount": 0,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "SK",
+      "nameEn": "Slovakia",
+      "flag": "🇸🇰",
+      "sizeMb": 0.01,
+      "settlementCount": 142,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "SL",
+      "nameEn": "Sierra Leone",
+      "flag": "🇸🇱",
+      "sizeMb": 0.01,
+      "settlementCount": 71,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "SM",
+      "nameEn": "San Marino",
+      "flag": "🇸🇲",
+      "sizeMb": 0.0,
+      "settlementCount": 0,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "SN",
+      "nameEn": "Senegal",
+      "flag": "🇸🇳",
+      "sizeMb": 0.02,
+      "settlementCount": 253,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "SO",
+      "nameEn": "Somalia",
+      "flag": "🇸🇴",
+      "sizeMb": 0.47,
+      "settlementCount": 5376,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "SR",
+      "nameEn": "Suriname",
+      "flag": "🇸🇷",
+      "sizeMb": 0.01,
+      "settlementCount": 101,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "SS",
+      "nameEn": "South Sudan",
+      "flag": "🇸🇸",
+      "sizeMb": 0.0,
+      "settlementCount": 0,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "ST",
+      "nameEn": "Sao Tome and Principe",
+      "flag": "🇸🇹",
+      "sizeMb": 0.0,
+      "settlementCount": 0,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "SV",
+      "nameEn": "El Salvador",
+      "flag": "🇸🇻",
+      "sizeMb": 0.07,
+      "settlementCount": 726,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "SY",
+      "nameEn": "Syria",
+      "flag": "🇸🇾",
+      "sizeMb": 0.0,
+      "settlementCount": 0,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "SZ",
+      "nameEn": "Eswatini",
+      "flag": "🇸🇿",
+      "sizeMb": 0.01,
+      "settlementCount": 88,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "TD",
+      "nameEn": "Chad",
+      "flag": "🇹🇩",
+      "sizeMb": 0.98,
+      "settlementCount": 11001,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "TJ",
+      "nameEn": "Tajikistan",
+      "flag": "🇹🇯",
+      "sizeMb": 0.19,
+      "settlementCount": 2027,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "TW",
+      "nameEn": "Taiwan",
+      "flag": "🇹🇼",
+      "sizeMb": 0.2,
+      "settlementCount": 2212,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "TZ",
+      "nameEn": "Tanzania",
+      "flag": "🇹🇿",
+      "sizeMb": 0.0,
+      "settlementCount": 0,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "VC",
+      "nameEn": "Saint Vincent and the Grenadines",
+      "flag": "🇻🇨",
+      "sizeMb": 0.0,
+      "settlementCount": 51,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "WS",
+      "nameEn": "Samoa",
+      "flag": "🇼🇸",
+      "sizeMb": 0.03,
+      "settlementCount": 338,
+      "lastUpdated": "2026-07-23"
+    },
+    {
+      "code": "ZA",
+      "nameEn": "South Africa",
+      "flag": "🇿🇦",
+      "sizeMb": 0.0,
+      "settlementCount": 0,
       "lastUpdated": "2026-07-23"
     }
   ]
